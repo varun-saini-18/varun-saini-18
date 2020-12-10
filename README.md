@@ -31,9 +31,9 @@ I am a third year student at IET,Lucknow. I have interest in web development and
 ###  A little more about me...  
 
 
-<div align='right'>
+
 [![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varun-saini-18&hide=["prs"])](https://github.com/varun-saini-18/github-readme-stats)
-</div>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Do check out some of my repositories and also provide your suggestions and feedback :)</em>
 
 <a href="mailto:varunnssaini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varunnssaini@gmail.com" alt="Gmail"></a>
