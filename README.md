@@ -29,22 +29,7 @@ I am a third year student at IET,Lucknow. I have interest in web development and
 <p><em>Pursuing Bachelors from <a href="https://www.ietlucknow.ac.in/">IET Lucknow</a></p>
 
 ###  A little more about me...  
-```cpp
 
-#include <coding>
-#include <coffee>
-#include <ietlko>
-using namespace varun-saini
-
-int main(){
-    string college = "IET Lucknow";
-    string about_me = [
-         'Name = Varun',
-         'Age' = 20,
-         'Branch' = CSE'
-    ]
-}
-```
 
 
 [![Varun's github stats](https://github-readme-stats.vercel.app/api?username=varun-saini-18&hide=["prs"])](https://github.com/varun-saini-18/github-readme-stats)
