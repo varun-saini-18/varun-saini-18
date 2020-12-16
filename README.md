@@ -3,8 +3,6 @@
 
 # varun_saini
 
-<img align='right' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="500" height = "300">
-
 
 ## About me 
 I am a third year student at IET,Lucknow. I have interest in web development and I am a regular competitive programmer. In past I have done some projects related to Python, NodeJs and Javscript. Currently I am learning React!
